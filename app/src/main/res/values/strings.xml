@@ -1,0 +1,22 @@
+<resources>
+<string name="app_name">Basketball</string>
+
+<string-array name="Edwin">
+    <item>Kaizer-Chiefs</item>
+    <item>Wits</item>
+    <item>Pirates</item>
+    <item>Sundowns</item>
+    <item>chippa</item>
+    <item>StrongRunners</item>
+</string-array>
+
+<string-array name="Chabalala">
+    <item>Kaizer-Chiefs</item>
+    <item>Wits</item>
+    <item>Pirates</item>
+    <item>Sundowns</item>
+    <item>chippa</item>
+    <item>StrongRunners</item>
+
+</string-array>
+</resources>
